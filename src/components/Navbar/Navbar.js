@@ -4,7 +4,7 @@ import "./navbar.css";
 export default function Navbar() {
   return (
     <nav className="navbar">
-      <span>Juan Viado</span>
+      <span>Geysom React [Lista de Tarefas]</span>
     </nav>
   );
 }
